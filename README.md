@@ -1,19 +1,15 @@
-<div align="center">
+# heyo its sahil 👋
 
-# heyoo its sahil 👋
-
-</div>
-
-*this looks cool ngl*
+*this looks cool ngl...*
 
 <img src="https://media.giphy.com/media/3oEduWjWxhdKpOUg6c/giphy.gif" alt="Wingsuit flight" width="280">
 
-I'm Sahil. I'm building **[SpecHawk](https://spechawk.ai)** — an agentic QA engineer that lives in your stack 24/7/365, catching bugs before your users ever do.
+I'm building **[SpecHawk](https://spechawk.ai)** — an agentic QA engineer that lives in your stack 24/7/365, catching bugs before your users ever do.
 
 ## reach me
 
-- **Personal** — sahilsapra391@gmail.com
-- **Work** — admin@spechawk.ai
+**Personal** — sahilsapra391@gmail.com<br>
+**Work** — admin@spechawk.ai
 
 <a href="https://spechawk.ai" title="spechawk.ai"><img src="https://raw.githubusercontent.com/sahilsapra391/sahilsapra391/main/assets/spechawk-mark.png" width="46" height="46" alt="SpecHawk"></a>
 &nbsp;&nbsp;&nbsp;
