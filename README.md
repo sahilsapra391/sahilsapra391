@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/3oEduWjWxhdKpOUg6c/giphy.gif" alt="Wingsuit flight" width="280">
 
-i'm building **[SpecHawk](https://spechawk.ai)**, an agentic QA engineer that lives in your stack 24/7/365, catching bugs before your users ever do
+i'm building **[SpecHawk](https://spechawk.ai)**, an agentic QA engineer that lives in your stack 24/7/365, catching bugs before your users ever do<br>
 &&& **[Skeptic](https://www.skeptic.fyi)**, your trustworthy options trading companion
 
 ## reach me
@@ -21,7 +21,5 @@ i'm building **[SpecHawk](https://spechawk.ai)**, an agentic QA engineer that li
 <a href="https://www.linkedin.com/in/sahil-sapra" title="LinkedIn"><img src="https://raw.githubusercontent.com/sahilsapra391/sahilsapra391/main/assets/linkedin.png" width="46" height="46" alt="LinkedIn"></a>
 
 ## visitors
-
-you're human or ai visitor no. -
 
 <img src="https://counter.kuber.studio/sahilsapra391/dark/count.svg" alt="visitor counter">
