@@ -4,8 +4,10 @@
 
 <img src="https://media.giphy.com/media/3oEduWjWxhdKpOUg6c/giphy.gif" alt="Wingsuit flight" width="280">
 
-i'm building **[SpecHawk](https://spechawk.ai)**, an agentic QA engineer that lives in your stack 24/7/365, catching bugs before your users ever do<br>
-&&&&& **[Skeptic](https://www.skeptic.fyi)**, your trustworthy options trading companion
+i'm building **[SpecHawk](https://spechawk.ai)**, an agentic QA engineer that lives in ur stack 24/7/365, catching bugs before ur users do<br>
+& **[Rent8](https://www.rent8.us)**, a secure place for all ur rental properties<br>
+&& **[Skeptic](https://www.skeptic.fyi)**, ur trustworthy options trading companion<br>
+&&& **[Jobby](https://www.jobby.fyi)**, ur personal agent that finds and applies for jobs on ur behalf
 
 ## reach me
 
