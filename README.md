@@ -14,6 +14,8 @@ i'm building **[SpecHawk](https://spechawk.ai)**, an agentic QA engineer that li
 
 <a href="https://spechawk.ai" title="spechawk.ai"><img src="https://raw.githubusercontent.com/sahilsapra391/sahilsapra391/main/assets/spechawk-mark.png" width="46" height="46" alt="SpecHawk"></a>
 &nbsp;&nbsp;&nbsp;
+<a href="https://www.rent8.us" title="rent8.us"><img src="https://raw.githubusercontent.com/sahilsapra391/sahilsapra391/main/assets/rent8-logo-180.png" width="46" height="46" alt="Rent8"></a>
+&nbsp;&nbsp;&nbsp;
 <a href="https://www.skeptic.fyi" title="skeptic.fyi"><img src="https://raw.githubusercontent.com/sahilsapra391/sahilsapra391/main/assets/skeptic-logo-180.png" width="46" height="46" alt="Skeptic"></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.jobby.fyi" title="jobby.fyi"><img src="https://raw.githubusercontent.com/sahilsapra391/sahilsapra391/main/assets/jobby-logo-180.png" width="46" height="46" alt="Jobby"></a>
